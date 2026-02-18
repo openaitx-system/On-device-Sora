@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=eai-lab&project=On-device-Sora&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # [arXiv] On-device Sora: Enabling Diffusion-Based Text-to-Video Generation for Mobile Devices
 
 * Code is based on implementation of [Open-Sora](https://github.com/hpcaitech/Open-Sora)
